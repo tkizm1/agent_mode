@@ -40,6 +40,13 @@ https://code.visualstudio.com/blogs/2025/04/07/agentMode
 
 定义方式：在 frontmatter 中添加 handoffs 字段，设置目标代理、按钮标签、提示内容及是否自动发送。
 
+### 例子
+
+![alt text](assets/custom_handoff.png)
+
+详细说明
+
+
 ## 微软官方关于这个的workshop
 
 - [GitHub Copilot: Agent Mode](https://code.visualstudio.com/blogs/2025/04/07/agentMode)
